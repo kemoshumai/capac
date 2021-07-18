@@ -6,5 +6,8 @@
   "repository": "https://github.com/kemoshumai/capac.git",
   "author": "kemoshumai",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "dgram": "^1.0.1"
+  }
 }
