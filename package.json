@@ -1,0 +1,10 @@
+{
+  "name": "capac",
+  "version": "1.0.0",
+  "description": "A common standard for sending and receiving data using broadcast addresses.",
+  "main": "capac.js",
+  "repository": "https://github.com/kemoshumai/capac.git",
+  "author": "kemoshumai",
+  "license": "MIT",
+  "private": true
+}
