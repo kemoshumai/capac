@@ -2,7 +2,7 @@
 
 "Capac" - A common standard for sending and receiving data using broadcast addresses. 
  
-Capacはブロードキャストアドレスを使ったデータの送受信の共通規格です。
+Capacはブロードキャストアドレスを使ったデータの送受信の共通した規格です。
 IoT機器のデータの同期などに使えます。
 自分用にNode.jsで実装したものです。
  
